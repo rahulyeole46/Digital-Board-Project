@@ -1,2 +1,2 @@
 # Digital-Board-Project
-Digitral Board Project
+Digital Board Project
